@@ -1,0 +1,152 @@
+
+
+.background {
+
+    background-color: hsl(225, 100%, 94%);
+    width : 500px;
+    height:800px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+ 
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    border-radius: 25px;
+    -webkit-box-shadow: 0px 9px 15px -1px rgba(0,0,0,0.74); 
+    box-shadow: 0px 9px 15px -1px rgba(0,0,0,0.74);
+
+}
+
+
+
+}
+
+.photoContainer {
+
+    width: 400px;
+    height:150px;
+    border-radius: 25px;
+    
+}
+
+img {
+
+    border-radius: 25px 25px 0 0;
+}
+
+
+.textContainer {
+
+    text-align: center;
+
+
+}
+h1 {
+
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 900;
+  color: hsl(223, 47%, 23%);
+  
+
+}
+
+p {
+
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 500;
+    color: hsl(224, 23%, 55%);
+    line-height: 25px;
+}
+
+.annualPlanContainer {
+
+
+width: 300px;
+height: 75px;
+background-color: hsl(225, 100%, 98%);
+margin: auto;
+border-radius: 15px;
+font-family: 'Red Hat Display', sans-serif;
+  font-size: 500;
+
+} 
+
+svg{
+
+    margin-left: 10px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+h2 {
+
+    margin-left: 80px;
+    margin-bottom: 70px;
+    position: absolute;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: medium;
+    color: hsl(223, 47%, 23%); 
+    
+
+}
+
+.price {
+
+    color:hsl(224, 23%, 55%);
+    font-size: 15px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 80px;
+
+
+}
+
+.change {
+
+    color:hsl(245, 75%, 52%);
+    position: absolute;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 13px;
+    text-decoration: underline;
+    margin-left: 230px;
+    margin-top: 25px;
+}
+
+.proceed {
+
+width: 300px;
+height: 50px;
+background-color:hsl(245, 75%, 52%);
+margin: auto;
+border-radius: 15px;
+font-family: 'Red Hat Display', sans-serif;
+color: white;
+font-size: medium;
+font-weight: 600;
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.cancel {
+
+margin: auto;
+font-family: 'Red Hat Display', sans-serif;
+color: hsl(224, 23%, 55%);
+font-size: medium;
+font-weight: 600;
+text-align: center;
+margin-top: 25px;
+
+
+
+}
